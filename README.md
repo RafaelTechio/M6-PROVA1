@@ -1,6 +1,6 @@
 # M6-PROVA1
 
-Instruções para execução
+## Instruções para execução
 
 1. Instale o Node.js
 2. Baixe o repositório localmente
@@ -8,3 +8,8 @@ Instruções para execução
 ```
 npm start
 ```
+
+## Rotas
+
+POST /calcularValorProjetado
+POST /adicionarInvestimento
