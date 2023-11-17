@@ -4,8 +4,9 @@
 
 1. Instale o Node.js
 2. Baixe o repositório localmente
-3. execute o comando:
+3. execute os comandos:
 ```
+npm i
 npm start
 ```
 
