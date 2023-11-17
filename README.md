@@ -14,9 +14,6 @@ npm start
 
 POST /calcularValorProjetado
 POST /adicionarInvestimento
-<<<<<<< HEAD
 
 ## SQL de exemplo
 O SQL pedido está no arquivo consulta.sql na raíz do projeto
-=======
->>>>>>> 15ce407401428ec6e55e294911b41bb993f42de5
